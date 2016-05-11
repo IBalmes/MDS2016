@@ -1,0 +1,5 @@
+Ce repository contient ma proposition pour le challenge "Le Meilleur Data Scientist de France" organisé par French Data en mai 2016. Elle m'a permis d'obtenir la cinquième place au classement final le 10 mai au soir, avec un score de 31,81173%.
+
+Vous êtes libres de réutiliser le code posté ici comme bon vous semble. Le notebook jupyter a été crée à la base par les équipes de Data Scientist de AirLiquide comme tutoriel pour le challenge. J'ai essayé autant que faire se peut de rendre clairement où sont les modifications que j'ai introduites.
+
+Les données contenues dans le répertoire data_challenge sont des données libres que vous pouvez trouver au format original ici : https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/, et qui ont été mise en forme par French Data. Merci à eux, ainsi qu'à tous les organisateurs et les participants de ce challenge ! 
